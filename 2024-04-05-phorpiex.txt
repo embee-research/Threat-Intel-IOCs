@@ -1,4 +1,5 @@
 #Initial Intel From https://github.com/executemalware/Malware-IOCs/blob/main/2024-03-28%20Phorpiex%20IOCs
+# https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=ONLY&q=services.http.response.body_hashes%3D%22sha1%3Aadc83b19e793491b1c6ea0fd8b46cd9f32e592fc%22+and+services.software.vendor%3D%22nginx%22+and+service_count%3A1+and+services.port%3A80+and+ip%3A185.215.113.66%2F24
 
 twizt[.]net
 aiiaiafrzrueuedur[.]net
